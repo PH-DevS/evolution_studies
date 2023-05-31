@@ -1,0 +1,15 @@
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_1\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_1\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_1\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_1\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_1\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_1\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_1\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_1\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_1\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_1\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_1\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_1\HelloWorld\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_1\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_1\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_1\HelloWorld\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll

@@ -1,0 +1,13 @@
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\crescente\crescente\bin\Debug\netcoreapp2.1\crescente.deps.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\crescente\crescente\bin\Debug\netcoreapp2.1\crescente.runtimeconfig.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\crescente\crescente\bin\Debug\netcoreapp2.1\crescente.runtimeconfig.dev.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\crescente\crescente\bin\Debug\netcoreapp2.1\crescente.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\crescente\crescente\bin\Debug\netcoreapp2.1\crescente.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\crescente\crescente\obj\Debug\netcoreapp2.1\crescente.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\crescente\crescente\obj\Debug\netcoreapp2.1\crescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\crescente\crescente\obj\Debug\netcoreapp2.1\crescente.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\crescente\crescente\obj\Debug\netcoreapp2.1\crescente.AssemblyInfo.cs
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\crescente\crescente\obj\Debug\netcoreapp2.1\crescente.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\crescente\crescente\obj\Debug\netcoreapp2.1\crescente.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\crescente\crescente\obj\Debug\netcoreapp2.1\crescente.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\crescente\crescente\obj\Debug\netcoreapp2.1\crescente.genruntimeconfig.cache

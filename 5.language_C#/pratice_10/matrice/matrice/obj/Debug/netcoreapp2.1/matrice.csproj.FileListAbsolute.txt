@@ -1,0 +1,13 @@
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_10\matrice\matrice\bin\Debug\netcoreapp2.1\matrice.deps.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_10\matrice\matrice\bin\Debug\netcoreapp2.1\matrice.runtimeconfig.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_10\matrice\matrice\bin\Debug\netcoreapp2.1\matrice.runtimeconfig.dev.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_10\matrice\matrice\bin\Debug\netcoreapp2.1\matrice.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_10\matrice\matrice\bin\Debug\netcoreapp2.1\matrice.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_10\matrice\matrice\obj\Debug\netcoreapp2.1\matrice.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_10\matrice\matrice\obj\Debug\netcoreapp2.1\matrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_10\matrice\matrice\obj\Debug\netcoreapp2.1\matrice.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_10\matrice\matrice\obj\Debug\netcoreapp2.1\matrice.AssemblyInfo.cs
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_10\matrice\matrice\obj\Debug\netcoreapp2.1\matrice.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_10\matrice\matrice\obj\Debug\netcoreapp2.1\matrice.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_10\matrice\matrice\obj\Debug\netcoreapp2.1\matrice.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_10\matrice\matrice\obj\Debug\netcoreapp2.1\matrice.genruntimeconfig.cache

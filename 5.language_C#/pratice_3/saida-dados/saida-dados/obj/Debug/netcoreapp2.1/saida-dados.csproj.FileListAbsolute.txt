@@ -1,0 +1,13 @@
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_3\saida-dados\saida-dados\bin\Debug\netcoreapp2.1\saida-dados.deps.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_3\saida-dados\saida-dados\bin\Debug\netcoreapp2.1\saida-dados.runtimeconfig.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_3\saida-dados\saida-dados\bin\Debug\netcoreapp2.1\saida-dados.runtimeconfig.dev.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_3\saida-dados\saida-dados\bin\Debug\netcoreapp2.1\saida-dados.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_3\saida-dados\saida-dados\bin\Debug\netcoreapp2.1\saida-dados.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_3\saida-dados\saida-dados\obj\Debug\netcoreapp2.1\saida-dados.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_3\saida-dados\saida-dados\obj\Debug\netcoreapp2.1\saida-dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_3\saida-dados\saida-dados\obj\Debug\netcoreapp2.1\saida-dados.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_3\saida-dados\saida-dados\obj\Debug\netcoreapp2.1\saida-dados.AssemblyInfo.cs
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_3\saida-dados\saida-dados\obj\Debug\netcoreapp2.1\saida-dados.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_3\saida-dados\saida-dados\obj\Debug\netcoreapp2.1\saida-dados.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_3\saida-dados\saida-dados\obj\Debug\netcoreapp2.1\saida-dados.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_3\saida-dados\saida-dados\obj\Debug\netcoreapp2.1\saida-dados.genruntimeconfig.cache

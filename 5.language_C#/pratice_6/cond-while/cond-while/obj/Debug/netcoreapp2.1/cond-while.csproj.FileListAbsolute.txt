@@ -1,0 +1,13 @@
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_6\cond-while\cond-while\bin\Debug\netcoreapp2.1\cond-while.deps.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_6\cond-while\cond-while\bin\Debug\netcoreapp2.1\cond-while.runtimeconfig.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_6\cond-while\cond-while\bin\Debug\netcoreapp2.1\cond-while.runtimeconfig.dev.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_6\cond-while\cond-while\bin\Debug\netcoreapp2.1\cond-while.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_6\cond-while\cond-while\bin\Debug\netcoreapp2.1\cond-while.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_6\cond-while\cond-while\obj\Debug\netcoreapp2.1\cond-while.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_6\cond-while\cond-while\obj\Debug\netcoreapp2.1\cond-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_6\cond-while\cond-while\obj\Debug\netcoreapp2.1\cond-while.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_6\cond-while\cond-while\obj\Debug\netcoreapp2.1\cond-while.AssemblyInfo.cs
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_6\cond-while\cond-while\obj\Debug\netcoreapp2.1\cond-while.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_6\cond-while\cond-while\obj\Debug\netcoreapp2.1\cond-while.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_6\cond-while\cond-while\obj\Debug\netcoreapp2.1\cond-while.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_6\cond-while\cond-while\obj\Debug\netcoreapp2.1\cond-while.genruntimeconfig.cache

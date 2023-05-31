@@ -1,0 +1,13 @@
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\soma_vetor\soma_vetor\bin\Debug\netcoreapp2.1\soma_vetor.deps.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\soma_vetor\soma_vetor\bin\Debug\netcoreapp2.1\soma_vetor.runtimeconfig.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\soma_vetor\soma_vetor\bin\Debug\netcoreapp2.1\soma_vetor.runtimeconfig.dev.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\soma_vetor\soma_vetor\bin\Debug\netcoreapp2.1\soma_vetor.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\soma_vetor\soma_vetor\bin\Debug\netcoreapp2.1\soma_vetor.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\soma_vetor\soma_vetor\obj\Debug\netcoreapp2.1\soma_vetor.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\soma_vetor\soma_vetor\obj\Debug\netcoreapp2.1\soma_vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\soma_vetor\soma_vetor\obj\Debug\netcoreapp2.1\soma_vetor.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\soma_vetor\soma_vetor\obj\Debug\netcoreapp2.1\soma_vetor.AssemblyInfo.cs
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\soma_vetor\soma_vetor\obj\Debug\netcoreapp2.1\soma_vetor.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\soma_vetor\soma_vetor\obj\Debug\netcoreapp2.1\soma_vetor.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\soma_vetor\soma_vetor\obj\Debug\netcoreapp2.1\soma_vetor.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\soma_vetor\soma_vetor\obj\Debug\netcoreapp2.1\soma_vetor.genruntimeconfig.cache

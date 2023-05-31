@@ -1,0 +1,13 @@
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\idades\idades\bin\Debug\netcoreapp2.1\idades.deps.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\idades\idades\bin\Debug\netcoreapp2.1\idades.runtimeconfig.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\idades\idades\bin\Debug\netcoreapp2.1\idades.runtimeconfig.dev.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\idades\idades\bin\Debug\netcoreapp2.1\idades.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\idades\idades\bin\Debug\netcoreapp2.1\idades.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\idades\idades\obj\Debug\netcoreapp2.1\idades.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\idades\idades\obj\Debug\netcoreapp2.1\idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\idades\idades\obj\Debug\netcoreapp2.1\idades.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\idades\idades\obj\Debug\netcoreapp2.1\idades.AssemblyInfo.cs
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\idades\idades\obj\Debug\netcoreapp2.1\idades.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\idades\idades\obj\Debug\netcoreapp2.1\idades.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\idades\idades\obj\Debug\netcoreapp2.1\idades.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\idades\idades\obj\Debug\netcoreapp2.1\idades.genruntimeconfig.cache

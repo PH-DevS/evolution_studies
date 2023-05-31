@@ -1,0 +1,13 @@
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_5\cond-if\cond-if\bin\Debug\netcoreapp2.1\cond-if.deps.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_5\cond-if\cond-if\bin\Debug\netcoreapp2.1\cond-if.runtimeconfig.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_5\cond-if\cond-if\bin\Debug\netcoreapp2.1\cond-if.runtimeconfig.dev.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_5\cond-if\cond-if\bin\Debug\netcoreapp2.1\cond-if.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_5\cond-if\cond-if\bin\Debug\netcoreapp2.1\cond-if.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_5\cond-if\cond-if\obj\Debug\netcoreapp2.1\cond-if.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_5\cond-if\cond-if\obj\Debug\netcoreapp2.1\cond-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_5\cond-if\cond-if\obj\Debug\netcoreapp2.1\cond-if.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_5\cond-if\cond-if\obj\Debug\netcoreapp2.1\cond-if.AssemblyInfo.cs
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_5\cond-if\cond-if\obj\Debug\netcoreapp2.1\cond-if.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_5\cond-if\cond-if\obj\Debug\netcoreapp2.1\cond-if.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_5\cond-if\cond-if\obj\Debug\netcoreapp2.1\cond-if.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_5\cond-if\cond-if\obj\Debug\netcoreapp2.1\cond-if.genruntimeconfig.cache

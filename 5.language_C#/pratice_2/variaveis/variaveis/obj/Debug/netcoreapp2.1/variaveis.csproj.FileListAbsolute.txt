@@ -1,0 +1,13 @@
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_2\variaveis\variaveis\bin\Debug\netcoreapp2.1\variaveis.deps.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_2\variaveis\variaveis\bin\Debug\netcoreapp2.1\variaveis.runtimeconfig.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_2\variaveis\variaveis\bin\Debug\netcoreapp2.1\variaveis.runtimeconfig.dev.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_2\variaveis\variaveis\bin\Debug\netcoreapp2.1\variaveis.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_2\variaveis\variaveis\bin\Debug\netcoreapp2.1\variaveis.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_2\variaveis\variaveis\obj\Debug\netcoreapp2.1\variaveis.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_2\variaveis\variaveis\obj\Debug\netcoreapp2.1\variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_2\variaveis\variaveis\obj\Debug\netcoreapp2.1\variaveis.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_2\variaveis\variaveis\obj\Debug\netcoreapp2.1\variaveis.AssemblyInfo.cs
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_2\variaveis\variaveis\obj\Debug\netcoreapp2.1\variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_2\variaveis\variaveis\obj\Debug\netcoreapp2.1\variaveis.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_2\variaveis\variaveis\obj\Debug\netcoreapp2.1\variaveis.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_2\variaveis\variaveis\obj\Debug\netcoreapp2.1\variaveis.genruntimeconfig.cache

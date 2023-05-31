@@ -1,0 +1,13 @@
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\diagonal_negativos\diagonal_negativos\bin\Debug\netcoreapp2.1\diagonal_negativos.deps.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\diagonal_negativos\diagonal_negativos\bin\Debug\netcoreapp2.1\diagonal_negativos.runtimeconfig.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\diagonal_negativos\diagonal_negativos\bin\Debug\netcoreapp2.1\diagonal_negativos.runtimeconfig.dev.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\diagonal_negativos\diagonal_negativos\bin\Debug\netcoreapp2.1\diagonal_negativos.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\diagonal_negativos\diagonal_negativos\bin\Debug\netcoreapp2.1\diagonal_negativos.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\diagonal_negativos\diagonal_negativos\obj\Debug\netcoreapp2.1\diagonal_negativos.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\diagonal_negativos\diagonal_negativos\obj\Debug\netcoreapp2.1\diagonal_negativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\diagonal_negativos\diagonal_negativos\obj\Debug\netcoreapp2.1\diagonal_negativos.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\diagonal_negativos\diagonal_negativos\obj\Debug\netcoreapp2.1\diagonal_negativos.AssemblyInfo.cs
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\diagonal_negativos\diagonal_negativos\obj\Debug\netcoreapp2.1\diagonal_negativos.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\diagonal_negativos\diagonal_negativos\obj\Debug\netcoreapp2.1\diagonal_negativos.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\diagonal_negativos\diagonal_negativos\obj\Debug\netcoreapp2.1\diagonal_negativos.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\diagonal_negativos\diagonal_negativos\obj\Debug\netcoreapp2.1\diagonal_negativos.genruntimeconfig.cache

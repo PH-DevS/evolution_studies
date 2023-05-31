@@ -1,0 +1,13 @@
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\menor-de-tres\menor-de-tres\bin\Debug\netcoreapp2.1\menor-de-tres.deps.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\menor-de-tres\menor-de-tres\bin\Debug\netcoreapp2.1\menor-de-tres.runtimeconfig.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\menor-de-tres\menor-de-tres\bin\Debug\netcoreapp2.1\menor-de-tres.runtimeconfig.dev.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\menor-de-tres\menor-de-tres\bin\Debug\netcoreapp2.1\menor-de-tres.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\menor-de-tres\menor-de-tres\bin\Debug\netcoreapp2.1\menor-de-tres.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\menor-de-tres\menor-de-tres\obj\Debug\netcoreapp2.1\menor-de-tres.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\menor-de-tres\menor-de-tres\obj\Debug\netcoreapp2.1\menor-de-tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\menor-de-tres\menor-de-tres\obj\Debug\netcoreapp2.1\menor-de-tres.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\menor-de-tres\menor-de-tres\obj\Debug\netcoreapp2.1\menor-de-tres.AssemblyInfo.cs
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\menor-de-tres\menor-de-tres\obj\Debug\netcoreapp2.1\menor-de-tres.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\menor-de-tres\menor-de-tres\obj\Debug\netcoreapp2.1\menor-de-tres.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\menor-de-tres\menor-de-tres\obj\Debug\netcoreapp2.1\menor-de-tres.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\exercicios\menor-de-tres\menor-de-tres\obj\Debug\netcoreapp2.1\menor-de-tres.genruntimeconfig.cache

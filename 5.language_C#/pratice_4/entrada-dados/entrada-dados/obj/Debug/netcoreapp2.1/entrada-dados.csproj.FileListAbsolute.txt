@@ -1,0 +1,13 @@
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_4\entrada-dados\entrada-dados\obj\Debug\netcoreapp2.1\entrada-dados.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_4\entrada-dados\entrada-dados\obj\Debug\netcoreapp2.1\entrada-dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_4\entrada-dados\entrada-dados\obj\Debug\netcoreapp2.1\entrada-dados.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_4\entrada-dados\entrada-dados\obj\Debug\netcoreapp2.1\entrada-dados.AssemblyInfo.cs
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_4\entrada-dados\entrada-dados\obj\Debug\netcoreapp2.1\entrada-dados.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_4\entrada-dados\entrada-dados\bin\Debug\netcoreapp2.1\entrada-dados.deps.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_4\entrada-dados\entrada-dados\bin\Debug\netcoreapp2.1\entrada-dados.runtimeconfig.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_4\entrada-dados\entrada-dados\bin\Debug\netcoreapp2.1\entrada-dados.runtimeconfig.dev.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_4\entrada-dados\entrada-dados\bin\Debug\netcoreapp2.1\entrada-dados.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_4\entrada-dados\entrada-dados\bin\Debug\netcoreapp2.1\entrada-dados.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_4\entrada-dados\entrada-dados\obj\Debug\netcoreapp2.1\entrada-dados.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_4\entrada-dados\entrada-dados\obj\Debug\netcoreapp2.1\entrada-dados.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_4\entrada-dados\entrada-dados\obj\Debug\netcoreapp2.1\entrada-dados.genruntimeconfig.cache

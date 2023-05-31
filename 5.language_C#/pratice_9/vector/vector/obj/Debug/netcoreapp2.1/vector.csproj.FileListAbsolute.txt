@@ -1,0 +1,13 @@
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_9\vector\vector\bin\Debug\netcoreapp2.1\vector.deps.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_9\vector\vector\bin\Debug\netcoreapp2.1\vector.runtimeconfig.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_9\vector\vector\bin\Debug\netcoreapp2.1\vector.runtimeconfig.dev.json
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_9\vector\vector\bin\Debug\netcoreapp2.1\vector.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_9\vector\vector\bin\Debug\netcoreapp2.1\vector.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_9\vector\vector\obj\Debug\netcoreapp2.1\vector.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_9\vector\vector\obj\Debug\netcoreapp2.1\vector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_9\vector\vector\obj\Debug\netcoreapp2.1\vector.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_9\vector\vector\obj\Debug\netcoreapp2.1\vector.AssemblyInfo.cs
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_9\vector\vector\obj\Debug\netcoreapp2.1\vector.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_9\vector\vector\obj\Debug\netcoreapp2.1\vector.dll
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_9\vector\vector\obj\Debug\netcoreapp2.1\vector.pdb
+C:\Users\Home\Documents\visualg3.0.7\Exercícios\5.language_C#\pratice_9\vector\vector\obj\Debug\netcoreapp2.1\vector.genruntimeconfig.cache
